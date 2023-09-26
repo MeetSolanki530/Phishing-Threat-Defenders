@@ -93,6 +93,19 @@ During the development of our Phishing Domain Detection system, our team encount
 
 To address this challenge, we devised a solution within our Flask application. We recognized that the issue stemmed from the format disparity between the URLs and our model's expectations. To mitigate this, we introduced a crucial preprocessing step. This step involved automatically removing the "http://" part from URLs before sending them for analysis by our model. By implementing this condition, we ensured that the URLs were consistently formatted to match our model's training data. This adjustment significantly improved the accuracy and reliability of our Phishing Domain Detection system.
 
+## How To Initiate Model
+
+1. **Locate the app.py File**: Make sure you have the **app.py** file for your application. **app.py** is been located in **phishingdetection** folder.
+2. **Run the app.py Application**: Execute the app.py script in IDE.
+3. **Check the Output**: After running the app.py script, it should start a web server and display some output in the terminal. Look for a line that says something like **"Server is running at http://127.0.0.1:5000/"**. This is the link you will need to initiate in your web browser.
+4. **Open a Web Browser**: Open your preferred web browser (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge).
+5. **Initiate the Link**: In your web browser's address bar, type or paste the link provided in the output of the app.py script. In this example, it's "http://127.0.0.1:5000/". Press Enter to navigate to this address.
+6. **Interact with the Application**: Once you've initiated the link in your web browser, your application should load, and you can start interacting with it. Follow the on-screen instructions or user interface provided by the application to utilize your model.
+7. **Use the Application**: Depending on what the app.py script does, you can perform tasks, input data, or make use of the model's capabilities through the web interface.
+8. **Close the Application**: When you're done using the application, you have to click CTRL+C to terminate the application in the IDE.
+
+
+
 ## Future Enhancements 🚧
 
 Chat Bot Using Azure Cognitive Services: Another exciting addition we are planning is the integration of a chatbot into our project, powered by Azure Cognitive Services. This chatbot will serve as a helpful assistant for users, capable of answering questions and providing valuable information regarding phishing sites. It will make our project more interactive and user-friendly, offering a seamless experience for anyone who uses it.
