@@ -101,7 +101,7 @@ Subscription Services: In our future endeavors for phishing site detection, we p
 
 ## Screenshots and Demos 📸
 Showcase the visual aspects of our AI solution through screenshots or videos. If possible, include a link to a live demo or video demonstration.
-![Screenshot%20%28183%29.png](attachment:Screenshot%20%28183%29.png)
+![Screenshot (126).png](https://github.com/MeetSolanki530/Phishing-Threat-Defenders/blob/main/phishing%20detection/Images/Screenshot%20(126).png)
 
 ![Screenshot%20%28184%29.png](attachment:Screenshot%20%28184%29.png)
 
@@ -112,7 +112,6 @@ Showcase the visual aspects of our AI solution through screenshots or videos. If
 -Deep Learning: Circle Image Phishing Dataset
 
 ## Get In Touch! 📬
-
 
 | Team Member | LinkedIn | Kaggle | Email |
 |---|---|---|---|
