@@ -100,12 +100,14 @@ Chat Bot Using Azure Cognitive Services: Another exciting addition we are planni
 Subscription Services: In our future endeavors for phishing site detection, we plan to introduce a premium feature designed to provide rapid assistance and resolution to users encountering issues related to phishing site data. With this premium service, users can expect their problems to be expertly addressed and resolved within a 48-hour timeframe
 
 ## Screenshots and Demos 📸
-Showcase the visual aspects of our AI solution through screenshots or videos. If possible, include a link to a live demo or video demonstration.
+
 ![Screenshot (126).png](https://github.com/MeetSolanki530/Phishing-Threat-Defenders/blob/main/phishing%20detection/Images/Screenshot%20(126).png)
 
-![Screenshot%20%28184%29.png](attachment:Screenshot%20%28184%29.png)
+![Screenshot (127).png](https://github.com/MeetSolanki530/Phishing-Threat-Defenders/blob/main/phishing%20detection/Images/Screenshot%20(127).png)
 
-![Screenshot%20%28185%29.png](attachment:Screenshot%20%28185%29.png)
+![Screenshot (129).png](https://github.com/MeetSolanki530/Phishing-Threat-Defenders/blob/main/phishing%20detection/Images/Screenshot%20(129).png)
+
+
 
 ## Dataset Credit:
 -Machine Learning: https://www.kaggle.com/datasets/ashharfarooqui/phising-urls
