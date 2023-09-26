@@ -55,7 +55,7 @@ Here are the technologies and tools we used to build our AI solution:
   -Settings Configuration: Users have the flexibility to customize the system's behavior, allowing them to tailor the level of protection according to their needs.
 
 ## How It Works 🛠️
-![phishing%20workflow.png](attachment:phishing%20workflow.png)
+![workflow](https://github.com/MeetSolanki530/Phishing-Threat-Defenders/blob/main/phishing%20detection/Images/Work_flow.jpg)
 
 Provide a high-level overview of how our AI solution works. You can use diagrams or flowcharts to make it easier to understand. Explain the key components, data flow, and the AI/ML techniques utilized.
 
