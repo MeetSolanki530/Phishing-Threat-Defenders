@@ -100,8 +100,7 @@ Showcase the visual aspects of our AI solution through screenshots or videos. If
 
 ![Screenshot%20%28185%29.png](attachment:Screenshot%20%28185%29.png)
 
-## Acknowledgments 🙌
-Dataset Credit:
+## Dataset Credit:
 -Machine Learning: https://www.kaggle.com/datasets/ashharfarooqui/phising-urls
 -Deep Learning: Circle Image Phishing Dataset
 
