@@ -15,6 +15,8 @@
 -manavp571@gmail.com
 -darji.shani8155@gmail.com
 -solankimeet530@gmail.com
+-vrundabhuva8@gmail.com
+-shreyashah2912@gmail.com
 
 ## Project Overview 🚀
 -We are currently working on a project where we are building an intelligent system using AI and ML to identify phishing domains. These are fake websites that try to look like real ones to trick people into giving away their information. Using the skills we've been learning in machine learning, we are creating a program that can automatically spot these deceptive websites by analyzing their appearance and other features. As we continue to develop this project, we are also planning to add the ability to analyze images for an even more robust detection system.
