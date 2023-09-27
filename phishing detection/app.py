@@ -8,7 +8,7 @@ import numpy as np
 app = Flask(__name__) # created a Flask application instance
 
 # loading pre-trained model
-with open('m1.pkl', 'rb') as model_file:
+with open('phish.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
 
@@ -44,7 +44,7 @@ def predict_datapoint():
             result = model.predict([domain])  # sending the domain as a string
 
             # mapping the result to "secure" or "non-secure"
-            if result[0] == 'good':
+            if result[0] == 'benign':
                 label = "This website is Secure."
             else:
                 label = "This website is potentially a Phishing Threat."
@@ -56,6 +56,7 @@ def predict_datapoint():
     else:
         # handle GET requests for the same route (e.g., initial page load)
         return render_template('home.html')
+
     
 @app.route('/predict_image', methods=['POST'])
 def predict_image():
