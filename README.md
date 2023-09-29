@@ -30,13 +30,14 @@
 
 Here are the technologies and tools we used to build our AI solution:
 
--Machine Learning: Python, Scikit Learn
--Natural Language Processing: NLTK
--Data Pre-processing: Pandas, NumPy, Seaborn, Matplotlib
--Web Development: Flask, HTML, Python
--Image Analysis: Deep Learning 
+-Data Collection: Open Source Database,Web scraping
+-Machine Learning: Python, Scikit Learn, NLTK
+-Deep Learning: Tensorflow, Keras
+-Web Development: Flask, HTML, Javascript, CSS
 -Chatbot: Azure Cognitive Services
 -Model Deployment: AWS/Azure
+-Real Time Management: Apache Kafka
+-Security & Firewall: AWS WAF, SSL, SQL/XSS
 
 ## Project Features and Functionality ✨
 
